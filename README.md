@@ -1,2 +1,2 @@
 # EJ2-DataGrid-Core-persistence-clear-persisted-data
-Clear persisted grid data from local storage on dynamic page reload
+This sample demonstrates on how to clear the persisted grid data from the local storage on dynamically reloading page
