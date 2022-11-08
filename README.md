@@ -2,6 +2,8 @@
 
 This sample explains about how to clear the persisted grid data from the local storage on dynamically reloading page.
 
+**Forum link**: https://www.syncfusion.com/forums/148167/how-to-disable-persistence-from-javascript
+
 ## Prerequisites
 
 * Visual Studio 2022
