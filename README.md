@@ -1,6 +1,8 @@
 
 # ASP.NET Core EJ2 DataGrid – Clear Persistence on Page Refresh
 
+## Repository Description
+
 This repository contains a sample ASP.NET Core application that demonstrates clearing persisted state data of a Syncfusion EJ2 DataGrid when a page refresh is triggered. The sample focuses on disabling grid persistence, removing stored values from browser local storage, and reloading the grid with a clean state.
 
 ## Project Overview
