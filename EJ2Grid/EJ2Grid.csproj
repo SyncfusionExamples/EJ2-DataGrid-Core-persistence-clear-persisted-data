@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <TargetFramework>netcoreapp8.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
@@ -10,12 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNet.WebApi" Version="5.2.7" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
-    <PackageReference Include="Microsoft.Owin" Version="4.2.2" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.4" />
-    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="17.2.0.46" />
-    <PackageReference Include="Syncfusion.EJ2.JavaScript" Version="16.4.0.54" />
+    <PackageReference Include="Syncfusion.EJ2.AspNet.Core" Version="33.1.44" />
+    <PackageReference Include="Syncfusion.EJ2.JavaScript" Version="33.1.44" />
   </ItemGroup>
 
   <ItemGroup>
